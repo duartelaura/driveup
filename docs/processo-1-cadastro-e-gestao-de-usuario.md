@@ -1,6 +1,18 @@
-# [cite_start]3.3.1 Processo 1 - Solicitar comprovante de presença [cite: 165]
+# [cite_start]3.3.1 Processo 1 - Cadastro e Gestão de Usuário
 
-[cite_start]O Processo de ter a presença comprovada nas aulas teóricas e práticas pode ser melhorado através da oportunidade de fornecer ao aluno uma visualização automatizada do progresso realizado por ele durante a etapa de aulas, tanto práticas quanto teóricas, necessárias para a obtenção da CNH. [cite: 166]
+[cite_start]O cadastro de cliente ocorre no website da locadora, na área de cadastro acessada pelo cliente.
+
+Participantes: Cliente e sistema
+
+Atividades: O processo inicia ao acessar a página principal do sistema e clicar no botão "Cadastrar". Na primeira etapa, o usuário deve inserir os dados pessoais, preenchendo o nome completo, o CPF e o e-mail para contato. Em seguida, o fluxo prossegue para inserir os dados da CNH, onde o usuário digita o número de registro do documento e seleciona a data de validade através de um calendário interativo.
+
+Após o preenchimento, o sistema entra na fase de validar as informações, verificando se o CPF é válido, se o e-mail possui um formato correto e se a CNH não está vencida. Se houver algum erro, o sistema sinaliza o campo específico para correção; caso contrário, ao clicar em "Confirmar", o sistema prossegue para cadastrar no banco de dados. Nesta última etapa, o sistema exibe uma mensagem de sucesso e redireciona o usuário para a tela de login.
+
+Início do processo: Cliente acessa o sistema e seleciona a opção de cadastro.
+
+Fim do processo: O Cadastro é concluído e os dados são armazenados no sistema.
+
+Produto/resultado: Cliente registrado no sistema e apto a realizar reservas.
 
 ## [cite_start]Detalhamento das atividades [cite: 180]
 
